@@ -6,4 +6,4 @@ et sa mère-grand **plus folle encore.***
 
 *Elle avait une cape rouge sang,   
 ce qui attira tous les *prédateurs*,   
-mais heureusement elle grimpa à un arbre pour se cacher.*
+mais heureusement elle grimpa à **un arbre** pour se cacher là-haut.
